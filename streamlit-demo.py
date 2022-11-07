@@ -30,7 +30,7 @@ featureset = ['flipper length', 'bill length', 'bill depth', 'body mass', 'islan
 graphset = ["Histogram", "Box Plot", "Enhanced Box Plot", "Strip Plot", "Violin Plot", "Swarm Plot"]
 
 #Give out dashboard a title
-st.title('Customer dashboard')
+st.title('Penguin dashboard')
 
 #Show the raw data
 st.subheader('Raw data')
